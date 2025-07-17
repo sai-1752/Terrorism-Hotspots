@@ -33,6 +33,14 @@ This project analyzes worldwide terrorist incidents using the [Global Terrorism 
 | `README.md`             | Project documentation                        |
 
 ---
+## 🗺️ Map of Global Terrorist Incidents
+
+An interactive map was created using the [Folium](https://python-visualization.github.io/folium/) library to visualize over 180,000+ global terrorist incidents.
+
+📍 Each red dot represents a recorded terrorist attack.
+
+![Global Terrorism Map](terorrism_map.png)
+
 
 ## 📍 How to View the Map
 
