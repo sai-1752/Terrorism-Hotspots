@@ -39,7 +39,7 @@ An interactive map was created using the [Folium](https://python-visualization.g
 
 📍 Each red dot represents a recorded terrorist attack.
 
-![Global Terrorism Map](terorrism_map.png)
+![Global Terrorism Map](terrorism_map.png)
 
 
 ## 📍 How to View the Map
