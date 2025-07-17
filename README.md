@@ -28,10 +28,8 @@ This project analyzes worldwide terrorist incidents using the [Global Terrorism 
 
 | File Name                | Description                                  |
 |-------------------------|----------------------------------------------|
-| `globalterrorismdb_0718dist` | Raw dataset from GTD                        |
-| `globalterrorismdb_cleaned.csv` | Cleaned version used for analysis       |
 | `terror_map.html`       | Interactive Folium map of global incidents    |
-| `analysis.ipynb`        | Python notebook with full analysis           |
+| `clean.ipynb`        | Python notebook with full analysis           |
 | `README.md`             | Project documentation                        |
 
 ---
